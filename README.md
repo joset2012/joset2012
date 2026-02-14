@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @joset2012
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on buiding minecraft with c++ and opengl
-- 📫 How to reach me mail:china20121129@outlook.com
-- 😄 Pronouns: chinaboy
-- ⚡ Fun fact: I am a student
+Hi,你好呀！
+我是_Mever,一名初一学生，我正在努力学习Minecraft Java 插件的开发呢！希望你能支持我~❤
 
 <!---
 joset2012/joset2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
